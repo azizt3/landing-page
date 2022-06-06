@@ -1,7 +1,9 @@
 
 body{
     margin:0;
+    
 }
+
 
 
 .header{
@@ -77,6 +79,14 @@ a{
 
 .button-1{
     background-color: #3882F6;
+    border-color:#3882F6;
+    border-style: none;
+    color: white;
+    font-size: 8px;
+    width: 64px;
+    height:auto;
+    border-radius:6px;
+    padding:6px;
 }
 
 .section-1-right{
