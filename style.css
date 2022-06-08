@@ -166,3 +166,22 @@ img{
     justify-content:right;
     font-weight:bold;
 }
+
+.section-4{
+    margin-top:36px;
+    margin-bottom:36px;
+    margin-left: 100px;
+    margin-right:100px;
+    padding-top:18px;
+    padding-bottom: 18px;
+    padding-left:48px;
+    padding-right:48px;
+    background-color:#3882F6;
+    display:flex;
+    flex-direction: row;
+}
+
+.content-4{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+}
